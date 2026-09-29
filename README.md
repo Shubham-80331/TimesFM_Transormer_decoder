@@ -4,6 +4,8 @@ A compact, research-oriented extension of a simplified TimesFM implementation fo
 
 **Author:** Shubham · [shubhams80331@gmail.com](mailto:shubhams80331@gmail.com) · [github.com/Shubham-80331](https://github.com/Shubham-80331)
 
+**Author:** Tushar · [tusharyadav171975@gmail.com](mailto:tusharyadav171975@gmail.com) · [https://github.com/Tushar2021s](https://github.com/Tushar2021s)
+                      
 ---
 
 ## What this project does
@@ -103,7 +105,7 @@ The starting implementation is inspired by:
 
 This repository is **not the official TimesFM implementation** and does not claim to reproduce Google's full-scale pretrained foundation model. The goal is to understand the architecture and evaluate a compact Transformer-based forecasting system under a reproducible experimental setup.
 
-## Extensions by Shubham
+## Extensions by Shubham & Tushar
 
 Built on top of the original educational skeleton, this project adds:
 
